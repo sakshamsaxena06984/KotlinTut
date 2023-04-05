@@ -9,6 +9,9 @@ fun main(){
         num--
     }
 
+
+
+
     //do-while
     num=5
     do {
