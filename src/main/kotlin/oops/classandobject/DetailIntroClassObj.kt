@@ -1,6 +1,6 @@
 package oops.classandobject
 
-class Person(var nameP:String,var age:Int){
+private class Person(var nameP:String,var age:Int){
     fun canVote():Boolean{
         return age>18;
     }
